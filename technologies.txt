@@ -1,0 +1,11 @@
+List of licensed technologies from Stanford University
+Docket S09-258 . ID 30546 : Streaming to Mobile Clients Using Distributed Video Transcoding in Peer-to-Peer network .  6/28/2019
+Docket S19-020 . ID 30260 : Neural network for accurate prediction of HLA class II antigen presentation .  6/06/2019
+Docket S17-376 . ID 30257 : Stanford Drone Dataset: Multi-scale, Multi-target social navigation .  5/14/2019
+Docket S18-301 . ID 30246 : Intranasal vasopressin to treat social impairments associated with autism .  5/13/19
+Docket S18-352 . ID 30476 : Magnetic Particle Imaging Method for In Vivo Drug Release Monitoring .  3/28/19
+Docket S18-049 . ID 30243 : Novel CD47 ECD design for surface attachment .  3/21/19
+Docket S18-282 . ID 30124 : Browser Integration for Rendering Text Edits .  5/14/19
+Docket S18-319 . ID 30983 : Nanoelectronic assay to diagnose ME/CFS .  6/03/19
+Docket S18-179 . ID 30441 : Lysosome targeting chimeras .  6/03/19
+Docket S17-247 . ID 30212 : Small Molecule Stimulators of Beta-Cell Regeneration .  6/11/19
